@@ -1,3 +1,3 @@
 # photo-exam
 
-![alt text](https://github.com/kae27/photo-exam/blob/main/photo11.png?raw=true)
+![alt text](https://github.com/kae27/photo-exam/blob/main/photo11.png=250x250)
